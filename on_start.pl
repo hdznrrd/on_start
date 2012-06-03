@@ -33,8 +33,8 @@ IRC::print("on start. loaded");
 
 sub on_start
 {
-	IRC::command("/masterkey $mcps_masterkey");
-	IRC::command("/fishpw $fish_inipw");
+#	IRC::command("/masterkey $mcps_masterkey");
+#	IRC::command("/fishpw $fish_inipw");
 }
 
 
